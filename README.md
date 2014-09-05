@@ -3,12 +3,6 @@
 
 Phile plugin that allows for execution of arbitrary PHP files within content files.
 
-## Vitally important information!!
-This plugin does not currently work with the out-of-the-box version of Phile.  A tweak has to be made to Core.php as outlined in this pull request: https://github.com/PhileCMS/Phile/pull/104. Hopefully it will be approved so I can remove this message.
-
-
-
-
 
 ##Usage
 
